@@ -1,0 +1,5 @@
+*.rar
+*.log
+map/*
+out/*
+test/*
